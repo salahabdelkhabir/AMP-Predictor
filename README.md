@@ -1,8 +1,8 @@
 ## AMP Predictor Project
-This repository contains the AMP Predictor Project, developed as part of the first-semester coursework for " BIO316: Work-based Professional Project in Bioinformatics (I) "
-during the Fall 2024 semester.
+The AMP Predictor Project was developed as part of the course " BIO316 - Work-based Professional Project in Bioinformatics (I) ", conducted during the Fall 2024 semester in the Bioinformatics Department. This project aims to leverage machine learning techniques to predict Antimicrobial Peptides (AMPs), a critical tool in combating multidrug-resistant pathogens.
 
-The project is focused on predicting Antimicrobial Peptides (AMPs) using state-of-the-art machine learning techniques. It includes well-documented datasets, detailed methodology, and Jupyter notebooks that cover every step of the implementation and analysis. This project reflects a comprehensive application of bioinformatics and data science principles, showcasing advanced techniques for feature engineering, model selection, and evaluation.
+Integrating diverse bioinformatics datasets, the project applies rigorous preprocessing methods and advanced feature engineering to optimize model performance. A comprehensive evaluation of 26 machine learning algorithms identified LightGBM (LGBM) as the most efficient and accurate model, achieving a balanced performance across key metrics such as accuracy, MCC, and AUC. The project concludes with a user-friendly deployment interface using Gradio, enabling seamless prediction of AMP potential from peptide sequences.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72188d48-0667-4fa9-a1e2-e91cad07bce3" width="300"/>
 </p>

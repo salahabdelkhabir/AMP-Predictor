@@ -7,6 +7,40 @@ Integrating diverse bioinformatics datasets, the project applies rigorous prepro
   <img src="https://github.com/user-attachments/assets/72188d48-0667-4fa9-a1e2-e91cad07bce3" width="300"/>
 </p>
 
+## Project Structure
+
+```
+
+AMP-Predictor/
+
+├── Dataset/
+
+│   ├── AMP.fasta          # FASTA file with AMP sequences
+
+│   └── Non-AMP.fasta      # FASTA file with Non-AMP sequences
+
+│
+
+├── Documentation/
+
+│   ├── Final AMP Book.pdf # Comprehensive project book
+
+│   ├── Preprint.pdf       # PDF version of the manuscript
+
+│   └── Rollup.pdf         # Concise summary of key findings
+
+│
+
+├── Notebook/
+
+│   └── AMP Predictor.ipynb # Jupyter notebook for analysis and prediction
+
+│
+
+└── README.md              # Project documentation (this file)
+
+```
+
 ## Detailed Methodology Steps
 
 <p align="center">

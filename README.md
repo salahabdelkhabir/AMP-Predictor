@@ -1,6 +1,6 @@
 ## 📑 Table of Contents
-- [Abstract](#amp-predictor-project)
-- [Project Repository Structure](#project-structure)
+- [Abstract](#abstract)
+- [Project Repository Structure](#project-repository-structure)
 - [Detailed Methodology Steps](#detailed-methodology-steps)
   - [1. Data Collection](#1-data-collection)
   - [2. Data Preprocessing](#2-data-preprocessing)
@@ -11,7 +11,7 @@
   - [7. Model Deployment](#7-model-deployment)
 - [📬 Contact](#contact)
 
-## AMP Predictor Project
+## Abstract
 The AMP Predictor Project was developed as part of the course " BIO316 - Work-based Professional Project in Bioinformatics (I) ", conducted during the Fall 2024 semester in the Bioinformatics Department. This project aims to leverage machine learning techniques to predict Antimicrobial Peptides (AMPs), a critical tool in combating multidrug-resistant pathogens.
 
 Integrating diverse bioinformatics datasets, the project applies rigorous preprocessing methods and advanced feature engineering to optimize model performance. A comprehensive evaluation of 26 machine learning algorithms identified LightGBM (LGBM) as the most efficient and accurate model, achieving a balanced performance across key metrics such as accuracy, MCC, and AUC. The project concludes with a user-friendly deployment interface using Gradio, enabling seamless prediction of AMP potential from peptide sequences.
@@ -20,8 +20,7 @@ Integrating diverse bioinformatics datasets, the project applies rigorous prepro
   <img src="https://github.com/user-attachments/assets/72188d48-0667-4fa9-a1e2-e91cad07bce3" width="300"/>
 </p>
 
-
-## Project Structure
+## Project Repository Structure
 
 ```
 
@@ -56,7 +55,7 @@ AMP-Predictor/
 ```
 
 
-## Detailed Methodology Steps
+## Detailed Methodology Steps:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ce285eb-9cf8-4ea1-b7cf-134e4ca30497" width="300"/>

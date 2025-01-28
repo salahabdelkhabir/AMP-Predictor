@@ -1,3 +1,16 @@
+## 📑 Table of Contents
+- [Abstract](#amp-predictor-project)
+- [Project Repository Structure](#project-structure)
+- [Detailed Methodology Steps](#detailed-methodology-steps)
+  - [1. Data Collection](#1-data-collection)
+  - [2. Data Preprocessing](#2-data-preprocessing)
+  - [3. Feature Engineering](#3-feature-engineering)
+  - [4. Model Development](#4-model-development)
+  - [5. Model Evaluation](#5-model-evaluation)
+  - [6. Model Selection](#6-model-selection)
+  - [7. Model Deployment](#7-model-deployment)
+- [📬 Contact](#contact)
+
 ## AMP Predictor Project
 The AMP Predictor Project was developed as part of the course " BIO316 - Work-based Professional Project in Bioinformatics (I) ", conducted during the Fall 2024 semester in the Bioinformatics Department. This project aims to leverage machine learning techniques to predict Antimicrobial Peptides (AMPs), a critical tool in combating multidrug-resistant pathogens.
 
@@ -6,6 +19,9 @@ Integrating diverse bioinformatics datasets, the project applies rigorous prepro
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72188d48-0667-4fa9-a1e2-e91cad07bce3" width="300"/>
 </p>
+
+## Project Structure
+
 
 ## Project Structure
 
@@ -40,6 +56,7 @@ AMP-Predictor/
 └── README.md              # Project documentation (this file)
 
 ```
+
 
 ## Detailed Methodology Steps
 
@@ -171,3 +188,13 @@ AMP-Predictor/
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7891013a-1186-41f7-86e5-381be8a58c1c" width="650"/>
 </p>
+
+## 📬 Contact
+
+For any questions or inquiries, feel free to reach out to the project leader:
+
+**Salah Gamal Abdelkhabir**  
+✉️ **Email**: [salahabdelkhabir@gmail.com](mailto:salahabdelkhabir@gmail.com)  
+🔗 **LinkedIn**: [**Salah Gamal Abdelkhabir**](https://www.linkedin.com/in/sala7abdelkhabir/)
+
+If you have any issues, bugs, or suggestions, please create an issue on the repository, and I will address it as soon as possible.

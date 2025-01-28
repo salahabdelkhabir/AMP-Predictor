@@ -20,8 +20,6 @@ Integrating diverse bioinformatics datasets, the project applies rigorous prepro
   <img src="https://github.com/user-attachments/assets/72188d48-0667-4fa9-a1e2-e91cad07bce3" width="300"/>
 </p>
 
-## Project Structure
-
 
 ## Project Structure
 

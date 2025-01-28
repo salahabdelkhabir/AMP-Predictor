@@ -1,5 +1,3 @@
-I'll help you format this README file to make it more polished and readable using proper markdown formatting:
-
 # AMP Predictor Project
 
 This repository contains the AMP Predictor project, created as part of the first-semester project for the Bioinformatics Department during the Fall 2024 semester. The project focuses on predicting Antimicrobial Peptides (AMPs) using machine learning techniques. It includes datasets, documentation, and Jupyter notebooks for implementation and analysis.

@@ -8,20 +8,19 @@ The following path tree outlines the project structure:
 AMP-Predictor/
 │
 ├── Dataset/
-│   ├── AMP.fasta          # FASTA file with AMP sequences
-│   └── Non-AMP.fasta      # FASTA file with Non-AMP sequences
+│   ├── AMP.fasta           FASTA file with AMP sequences
+│   └── Non-AMP.fasta       FASTA file with Non-AMP sequences
 │
 ├── Documentation/
 │   ├── Final AMP Book.pdf # Comprehensive project book
-│   ├── Preprint.docx      # Draft manuscript summarizing the study
-│   ├── Preprint.pdf       # PDF version of the manuscript
-│   └── Rollup.pdf         # Concise summary of key findings
+│   ├── Preprint.docx       Draft manuscript summarizing the study
+│   ├── Preprint.pdf        PDF version of the manuscript
+│   └── Rollup.pdf          Concise summary of key findings
 │
 ├── Notebook/
-│   └── AMP Predictor.ipynb # Jupyter notebook for analysis and prediction
+│   └── AMP Predictor.ipynb  Jupyter notebook for analysis and prediction
 │
-└── README.md              # Project documentation (this file)
-
+└── README.md               Project documentation (this file)
 #Prerequisites
 Before running the project, ensure the following are installed on your system:
 

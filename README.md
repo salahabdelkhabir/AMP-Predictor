@@ -1,6 +1,8 @@
 ## AMP Predictor Project
-This repository contains the AMP Predictor project, created as part of the first-semester project for the Bioinformatics Department during the Fall 2024 semester. The project focuses on predicting Antimicrobial Peptides (AMPs) using machine learning techniques. It includes datasets, documentation, and Jupyter notebooks for implementation and analysis.
+This repository contains the AMP Predictor Project, developed as part of the first-semester coursework for " BIO316: Work-based Professional Project in Bioinformatics (I) "
+during the Fall 2024 semester.
 
+The project is focused on predicting Antimicrobial Peptides (AMPs) using state-of-the-art machine learning techniques. It includes well-documented datasets, detailed methodology, and Jupyter notebooks that cover every step of the implementation and analysis. This project reflects a comprehensive application of bioinformatics and data science principles, showcasing advanced techniques for feature engineering, model selection, and evaluation.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72188d48-0667-4fa9-a1e2-e91cad07bce3" width="300"/>
 </p>
